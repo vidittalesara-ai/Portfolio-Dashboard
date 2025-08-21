@@ -413,4 +413,4 @@ if compute_btn:
 
     # ---------- Holdings ----------
     with tab2:
-        st.subheader("Holdings & XIRR per sc
+        st.subheader("Holdings & XIRR per scheme")
